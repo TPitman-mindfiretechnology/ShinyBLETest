@@ -56,8 +56,8 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
-		<PackageReference Include="Shiny.Hosting.Maui" Version="3.0.0-beta-0015" />
-		<PackageReference Include="Shiny.BluetoothLE" Version="3.0.0-beta-0015" />
+		<PackageReference Include="Shiny.Hosting.Maui" Version="3.0.0-beta-0092" />
+		<PackageReference Include="Shiny.BluetoothLE" Version="3.0.0-beta-0092" />
 	</ItemGroup>
 
 </Project>
